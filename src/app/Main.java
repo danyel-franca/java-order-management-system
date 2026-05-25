@@ -1,4 +1,4 @@
-package service;
+package app;
 
 import model.Cliente;
 import model.ItemPedido;
